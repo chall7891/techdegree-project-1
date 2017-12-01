@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Random Quotes</title>
+  <style id="backgroundColor" type="text/css">
+      .changeableBackground {
+        background-color: #36b55c;
+      }
+  </style>
+  <link href='https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="changeableBackground" onload="autoChange();">
+  <div class="container">
+    <div id="quote-box">
+      <p class="quote">You can do anything but not everything.</p>
+      <p class="source">David Allen<span class="citation">Making It All Work</span><span class="year">2009</span></p>
+      <p class="tag">#EndlessPossibilities</p>
+    </div>
+    <button class="changeableBackground" id="loadQuote">Show another quote</button>
+  </div>
+  <script src="js/quotations.js"></script>
+  <script src="js/quotation_generator.js"></script>
+</body>
+</html>
