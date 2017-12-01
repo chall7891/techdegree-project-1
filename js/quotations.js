@@ -53,6 +53,94 @@ var quotes = [
     tag: '#NoLimits'
   },
   {
+    quote: 'I think everybody should get rich and famous and do everything they ' +
+           'ever dreamed of so they can see that it\'s not the answer.',
+
+    source: 'Jim Carrey',
+
+    tag: '#MoneyIsNotHappiness'
+  },
+  {
+    quote: 'Intelligence plus character-that is the goal of true education.',
+
+    source: 'Martin Luther King, Jr.',
+
+    citation: 'The Purpose of Education',
+
+    year: 1947,
+
+    tag: '#EducationPlusCharacter'
+  },
+  {
+    quote: 'Real integrity is doing the right thing, knowing that nobody’s going ' +
+           ' to know whether you did it or not.',
+
+    source: 'Oprah Winfrey',
+
+    tag: '#TrueIntegrity'
+  },
+  {
+    quote: 'No pessimist ever discovered the secret of the stars or sailed an ' +
+           'uncharted land, or opened a new doorway for the human spirit.',
+
+    source: 'Helen Keller',
+
+    tag: '#Optimism'
+  },
+  {
+    quote: 'You can, you should, and if you\'re brave enough to start, you will.',
+
+    source: 'Stephen King',
+
+    citation: 'On Writing: A Memoir of the Craft',
+
+    year: 2000,
+
+    tag: '#Courage'
+  },
+  {
+    quote: 'The best way to cheer yourself is to try to cheer somebody else up.',
+
+    source: 'Mark Twain',
+
+    year: 1896,
+
+    tag: '#Service'
+  },
+  {
+    quote: 'I believe that every right implies a responsibility; every opportunity ' +
+           ' an obligation; every possession a duty.',
+
+    source: 'John D. Rockefeller Jr.',
+
+    tag: '#Responsibility'
+  },
+  {
+    quote: 'A fool thinks himself to be wise, but a wise man knows himself to be a fool.',
+
+    source: 'William Shakespeare',
+
+    citation: 'As You Like It',
+
+    year: 1599,
+
+    tag: '#Humility'
+  },
+  {
+  quote: 'There has never been a good war nor a bad peace.',
+
+  source: 'Benjamin Franklin',
+
+  tag: '#Peace'
+},
+{
+  quote: 'If white is good and black is bad, then all I see is gray or plaid.',
+
+  source: 'unknown',
+
+  tag: '#LifeIsNotBlackAndWhite'
+},
+  {
     quote: 'You can do anything but not everything.',
 
     source: 'David Allen',
