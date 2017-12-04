@@ -42,7 +42,7 @@ function getRandomColor() {
                   getRandomNumber(0, 255) + ')';
 }
 
-//Changes background color for the body and button when called by changing the
+//Changes background color for the body when called by changing the
 //innerHTML of the <style/> tags to the value assigned to the css variable.
 function changeBackgroundColor () {
   var css = '.changeableBackground { background-color: ' + getRandomColor() + '}';
